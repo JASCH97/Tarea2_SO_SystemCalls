@@ -1,0 +1,13 @@
+/home/tinky-winky/Documents/Salvadinha SO/rastreador-syscalls/target/debug/deps/clang_sys-b8772e4b40981390.rmeta: /home/tinky-winky/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.3.1/src/lib.rs /home/tinky-winky/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.3.1/src/support.rs /home/tinky-winky/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.3.1/src/link.rs /home/tinky-winky/Documents/Salvadinha\ SO/rastreador-syscalls/target/debug/build/clang-sys-2e69140f8d6f1e27/out/common.rs /home/tinky-winky/Documents/Salvadinha\ SO/rastreador-syscalls/target/debug/build/clang-sys-2e69140f8d6f1e27/out/dynamic.rs
+
+/home/tinky-winky/Documents/Salvadinha SO/rastreador-syscalls/target/debug/deps/libclang_sys-b8772e4b40981390.rlib: /home/tinky-winky/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.3.1/src/lib.rs /home/tinky-winky/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.3.1/src/support.rs /home/tinky-winky/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.3.1/src/link.rs /home/tinky-winky/Documents/Salvadinha\ SO/rastreador-syscalls/target/debug/build/clang-sys-2e69140f8d6f1e27/out/common.rs /home/tinky-winky/Documents/Salvadinha\ SO/rastreador-syscalls/target/debug/build/clang-sys-2e69140f8d6f1e27/out/dynamic.rs
+
+/home/tinky-winky/Documents/Salvadinha SO/rastreador-syscalls/target/debug/deps/clang_sys-b8772e4b40981390.d: /home/tinky-winky/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.3.1/src/lib.rs /home/tinky-winky/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.3.1/src/support.rs /home/tinky-winky/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.3.1/src/link.rs /home/tinky-winky/Documents/Salvadinha\ SO/rastreador-syscalls/target/debug/build/clang-sys-2e69140f8d6f1e27/out/common.rs /home/tinky-winky/Documents/Salvadinha\ SO/rastreador-syscalls/target/debug/build/clang-sys-2e69140f8d6f1e27/out/dynamic.rs
+
+/home/tinky-winky/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.3.1/src/lib.rs:
+/home/tinky-winky/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.3.1/src/support.rs:
+/home/tinky-winky/.cargo/registry/src/github.com-1ecc6299db9ec823/clang-sys-1.3.1/src/link.rs:
+/home/tinky-winky/Documents/Salvadinha\ SO/rastreador-syscalls/target/debug/build/clang-sys-2e69140f8d6f1e27/out/common.rs:
+/home/tinky-winky/Documents/Salvadinha\ SO/rastreador-syscalls/target/debug/build/clang-sys-2e69140f8d6f1e27/out/dynamic.rs:
+
+# env-dep:OUT_DIR=/home/tinky-winky/Documents/Salvadinha SO/rastreador-syscalls/target/debug/build/clang-sys-2e69140f8d6f1e27/out

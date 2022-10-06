@@ -1,0 +1,5 @@
+/home/tinky-winky/Documents/Salvadinha SO/rastreador-syscalls/target/debug/build/serde-10c49e248b0e961a/build_script_build-10c49e248b0e961a: /home/tinky-winky/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-1.0.136/build.rs
+
+/home/tinky-winky/Documents/Salvadinha SO/rastreador-syscalls/target/debug/build/serde-10c49e248b0e961a/build_script_build-10c49e248b0e961a.d: /home/tinky-winky/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-1.0.136/build.rs
+
+/home/tinky-winky/.cargo/registry/src/github.com-1ecc6299db9ec823/serde-1.0.136/build.rs:

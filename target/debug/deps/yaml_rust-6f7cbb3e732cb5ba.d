@@ -1,0 +1,11 @@
+/home/tinky-winky/Documents/Salvadinha SO/rastreador-syscalls/target/debug/deps/yaml_rust-6f7cbb3e732cb5ba.rmeta: /home/tinky-winky/.cargo/registry/src/github.com-1ecc6299db9ec823/yaml-rust-0.3.5/src/lib.rs /home/tinky-winky/.cargo/registry/src/github.com-1ecc6299db9ec823/yaml-rust-0.3.5/src/yaml.rs /home/tinky-winky/.cargo/registry/src/github.com-1ecc6299db9ec823/yaml-rust-0.3.5/src/scanner.rs /home/tinky-winky/.cargo/registry/src/github.com-1ecc6299db9ec823/yaml-rust-0.3.5/src/parser.rs /home/tinky-winky/.cargo/registry/src/github.com-1ecc6299db9ec823/yaml-rust-0.3.5/src/emitter.rs
+
+/home/tinky-winky/Documents/Salvadinha SO/rastreador-syscalls/target/debug/deps/libyaml_rust-6f7cbb3e732cb5ba.rlib: /home/tinky-winky/.cargo/registry/src/github.com-1ecc6299db9ec823/yaml-rust-0.3.5/src/lib.rs /home/tinky-winky/.cargo/registry/src/github.com-1ecc6299db9ec823/yaml-rust-0.3.5/src/yaml.rs /home/tinky-winky/.cargo/registry/src/github.com-1ecc6299db9ec823/yaml-rust-0.3.5/src/scanner.rs /home/tinky-winky/.cargo/registry/src/github.com-1ecc6299db9ec823/yaml-rust-0.3.5/src/parser.rs /home/tinky-winky/.cargo/registry/src/github.com-1ecc6299db9ec823/yaml-rust-0.3.5/src/emitter.rs
+
+/home/tinky-winky/Documents/Salvadinha SO/rastreador-syscalls/target/debug/deps/yaml_rust-6f7cbb3e732cb5ba.d: /home/tinky-winky/.cargo/registry/src/github.com-1ecc6299db9ec823/yaml-rust-0.3.5/src/lib.rs /home/tinky-winky/.cargo/registry/src/github.com-1ecc6299db9ec823/yaml-rust-0.3.5/src/yaml.rs /home/tinky-winky/.cargo/registry/src/github.com-1ecc6299db9ec823/yaml-rust-0.3.5/src/scanner.rs /home/tinky-winky/.cargo/registry/src/github.com-1ecc6299db9ec823/yaml-rust-0.3.5/src/parser.rs /home/tinky-winky/.cargo/registry/src/github.com-1ecc6299db9ec823/yaml-rust-0.3.5/src/emitter.rs
+
+/home/tinky-winky/.cargo/registry/src/github.com-1ecc6299db9ec823/yaml-rust-0.3.5/src/lib.rs:
+/home/tinky-winky/.cargo/registry/src/github.com-1ecc6299db9ec823/yaml-rust-0.3.5/src/yaml.rs:
+/home/tinky-winky/.cargo/registry/src/github.com-1ecc6299db9ec823/yaml-rust-0.3.5/src/scanner.rs:
+/home/tinky-winky/.cargo/registry/src/github.com-1ecc6299db9ec823/yaml-rust-0.3.5/src/parser.rs:
+/home/tinky-winky/.cargo/registry/src/github.com-1ecc6299db9ec823/yaml-rust-0.3.5/src/emitter.rs:

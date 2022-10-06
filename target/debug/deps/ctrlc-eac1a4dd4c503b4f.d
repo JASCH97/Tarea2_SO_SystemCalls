@@ -1,0 +1,11 @@
+/home/tinky-winky/Documents/Salvadinha SO/rastreador-syscalls/target/debug/deps/ctrlc-eac1a4dd4c503b4f.rmeta: /home/tinky-winky/.cargo/registry/src/github.com-1ecc6299db9ec823/ctrlc-3.2.1/src/lib.rs /home/tinky-winky/.cargo/registry/src/github.com-1ecc6299db9ec823/ctrlc-3.2.1/src/error.rs /home/tinky-winky/.cargo/registry/src/github.com-1ecc6299db9ec823/ctrlc-3.2.1/src/platform/mod.rs /home/tinky-winky/.cargo/registry/src/github.com-1ecc6299db9ec823/ctrlc-3.2.1/src/platform/unix/mod.rs /home/tinky-winky/.cargo/registry/src/github.com-1ecc6299db9ec823/ctrlc-3.2.1/src/signal.rs
+
+/home/tinky-winky/Documents/Salvadinha SO/rastreador-syscalls/target/debug/deps/libctrlc-eac1a4dd4c503b4f.rlib: /home/tinky-winky/.cargo/registry/src/github.com-1ecc6299db9ec823/ctrlc-3.2.1/src/lib.rs /home/tinky-winky/.cargo/registry/src/github.com-1ecc6299db9ec823/ctrlc-3.2.1/src/error.rs /home/tinky-winky/.cargo/registry/src/github.com-1ecc6299db9ec823/ctrlc-3.2.1/src/platform/mod.rs /home/tinky-winky/.cargo/registry/src/github.com-1ecc6299db9ec823/ctrlc-3.2.1/src/platform/unix/mod.rs /home/tinky-winky/.cargo/registry/src/github.com-1ecc6299db9ec823/ctrlc-3.2.1/src/signal.rs
+
+/home/tinky-winky/Documents/Salvadinha SO/rastreador-syscalls/target/debug/deps/ctrlc-eac1a4dd4c503b4f.d: /home/tinky-winky/.cargo/registry/src/github.com-1ecc6299db9ec823/ctrlc-3.2.1/src/lib.rs /home/tinky-winky/.cargo/registry/src/github.com-1ecc6299db9ec823/ctrlc-3.2.1/src/error.rs /home/tinky-winky/.cargo/registry/src/github.com-1ecc6299db9ec823/ctrlc-3.2.1/src/platform/mod.rs /home/tinky-winky/.cargo/registry/src/github.com-1ecc6299db9ec823/ctrlc-3.2.1/src/platform/unix/mod.rs /home/tinky-winky/.cargo/registry/src/github.com-1ecc6299db9ec823/ctrlc-3.2.1/src/signal.rs
+
+/home/tinky-winky/.cargo/registry/src/github.com-1ecc6299db9ec823/ctrlc-3.2.1/src/lib.rs:
+/home/tinky-winky/.cargo/registry/src/github.com-1ecc6299db9ec823/ctrlc-3.2.1/src/error.rs:
+/home/tinky-winky/.cargo/registry/src/github.com-1ecc6299db9ec823/ctrlc-3.2.1/src/platform/mod.rs:
+/home/tinky-winky/.cargo/registry/src/github.com-1ecc6299db9ec823/ctrlc-3.2.1/src/platform/unix/mod.rs:
+/home/tinky-winky/.cargo/registry/src/github.com-1ecc6299db9ec823/ctrlc-3.2.1/src/signal.rs:
